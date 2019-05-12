@@ -1,0 +1,16 @@
+[
+    {
+        "recipeName": "Aloo Puri",
+        "recipeId": 1
+    },
+    {
+        "recipeName": "Butter Chicken",
+        "recipeId": 2
+    },{
+        "recipeName": "Rajma Chawal",
+        "recipeId": 3
+    },{
+        "recipeName": "Mutter Paneer",
+        "recipeId": 1
+    }
+]
